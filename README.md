@@ -1,4 +1,4 @@
-# Brazilian-E-Commerce
+# Customer segmentation
 Olist Brazilian E-Commerce
 
 Olist connects small businesses to larger product marketplaces to help entrepreneurs sell their products to a larger customer base. The company was founded with the mission of helping small merchants gain market share across the country through a SaaS licensing model to small brick and mortar businesses.
